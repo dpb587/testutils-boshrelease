@@ -1,0 +1,27 @@
+---
+packages: []
+jobs:
+- name: testutils-data
+  version: 2cdedef6d172fd7e0efab8d5e203515b2f5a010a
+  fingerprint: 2cdedef6d172fd7e0efab8d5e203515b2f5a010a
+  sha1: 8b10b792f68c0fc170b5cffc5f8019addb711844
+- name: testutils-idle
+  version: 0fed78291d6e7f5c729296af3a0dd41485daa186
+  fingerprint: 0fed78291d6e7f5c729296af3a0dd41485daa186
+  sha1: 2463e6b22503f7bd26ec14e9c263a1a1c2c2def8
+- name: testutils-keys
+  version: 67ff4fdb8bfe190358081fb7af7109e7f962b195
+  fingerprint: 67ff4fdb8bfe190358081fb7af7109e7f962b195
+  sha1: 8a3a6fa79e68d6a41cce3857464c14b149ac110d
+- name: testutils-root
+  version: ae2ed6f926b9038583b40f159825fd6a158e9935
+  fingerprint: ae2ed6f926b9038583b40f159825fd6a158e9935
+  sha1: ad553f5ff5261d6d0f272ff2b30266c06c959254
+license:
+  version: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  fingerprint: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  sha1: 123271e1b0bc4ada92a3e6fa0dcee6787da12402
+commit_hash: '10660872'
+uncommitted_changes: true
+name: testutils
+version: 0.1.0
